@@ -23,6 +23,7 @@ git clone (repository)
 - Open STS and import the project.
 - Right-click the public static void main in PayRollApplication and run.
 - Open the terminal and type: curl -v localhost:8080/employees and curl -v localhost:8080/orders 
+![](rest-api.PNG)
 
 # Acknowledgments
 - https://spring.io/guides/tutorials/rest/
